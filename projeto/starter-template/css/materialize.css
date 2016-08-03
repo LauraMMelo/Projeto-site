@@ -3414,9 +3414,9 @@ input[type=range] + .thumb {
   width: 90%;
 }
 
-#present{
-  background-image: url(board-games-1.png);
-}
+
+
+
 
 @media only screen and (min-width: 601px) {
   .container {

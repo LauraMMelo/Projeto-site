@@ -1,0 +1,20 @@
+#present{
+  background-image: url(board-games-3.jpg);  
+
+}
+
+#present img{
+  background-image: url(board-games-3.jpg); 
+  max-width: 100%;
+  display: block;
+  margin: auto;
+
+}
+
+
+#botao{	
+	background-image: url(board-game-loja.jpg);
+	height: 170px;
+	padding-top: 12%;
+}
+
