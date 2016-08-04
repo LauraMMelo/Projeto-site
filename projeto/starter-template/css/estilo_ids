@@ -5,7 +5,7 @@
 }
 
 #present img{
-  background-image: url(board-games-3.jpg); 
+   
   max-width: 100%;
   display: block;
   margin: auto;
