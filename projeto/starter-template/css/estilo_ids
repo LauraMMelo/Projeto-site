@@ -1,5 +1,6 @@
 #present{
-  background-image: url(board-games-3.jpg);  
+  background-image: url(board-games-3.jpg); 
+  background-size: 100%; 
 
 }
 
@@ -16,5 +17,23 @@
 	background-image: url(board-game-loja.jpg);
 	height: 170px;
 	padding-top: 12%;
+	background-size: 100%;	
 }
+
+#botao2{	
+	background-image: url(friends.jpg);
+	height: 170px;
+	padding-top: 12%;
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+
+#container_catalogo{
+	margin-bottom: -8%;
+}
+
+#container_aluguel{
+	margin-bottom: -8%;
+}
+
 
