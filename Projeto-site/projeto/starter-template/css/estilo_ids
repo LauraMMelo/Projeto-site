@@ -1,0 +1,43 @@
+#present{
+  background-image: url(board-games-3.jpg); 
+  background-size: 100%; 
+
+}
+
+#present img{
+   
+  max-width: 100%;
+  display: block;
+  margin: auto;
+
+}
+
+
+#botao{	
+	background-image: url(board-game-loja.jpg);
+	height: 170px;
+	padding-top: 12%;
+	background-size: 100%;	
+}
+
+#botao2{	
+	background-image: url(friends.jpg);
+	height: 170px;
+	padding-top: 12%;
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+
+#container_catalogo{
+	margin-bottom: -8%;
+}
+
+#container_aluguel{
+	margin-bottom: -8%;
+}
+ #logo-container img{
+ 	max-width: 100%;
+ 	max-height: 60px;
+ }
+
+
